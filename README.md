@@ -1,4 +1,3 @@
 # ai-programming-test
-ㄴㅇㅁㄴㅇ
-안녕
-dd
+2026101089 현정민
+
